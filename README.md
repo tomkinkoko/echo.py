@@ -1,4 +1,5 @@
 # echo.py
+Script written in python3 and bash.
 Foolproof and extremly simple script for automation of the scaning phase of Penetration test.
 
 How the script works:
