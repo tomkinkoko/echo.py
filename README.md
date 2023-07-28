@@ -5,7 +5,7 @@ Foolproof and extremly simple script for automation of the scaning phase of Pene
 How the script works:
 
 1. Input domain address
-2. Script will perform nmap, nikto and dirbuster scans. It will automaticly do some customization scans and save output to the files.
+2. Script will perform nmap, nikto and gobuster scans. It will automaticly do some customization scans and save output to the files.
 
 
 Script requries:
